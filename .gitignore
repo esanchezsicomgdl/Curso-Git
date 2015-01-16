@@ -1,0 +1,2 @@
+#ignora los archivos que se crean cuando se abre un archivo
+.~lock.*
